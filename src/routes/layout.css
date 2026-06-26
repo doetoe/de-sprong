@@ -1,0 +1,3 @@
+/* Importeer Tailwind CSS (utility classes) en DaisyUI (component classes) */
+@import 'tailwindcss';
+@plugin 'daisyui';
